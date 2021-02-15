@@ -31,6 +31,6 @@
   "devDependencies": {
     "tap-spec": "^5.0.0",
     "tape": "^5.1.1",
-    "standard": "^5.4.1"
+    "standard": "^16.0.3"
   }
 }
